@@ -11,4 +11,4 @@ https://www.slideshare.net/amrelarabi1/python-spell-checker
 
 For more information you can visit :
 
-http://www.motwr.com
+http://www.motwr.com/2017/03/python3-spell-checker.html
