@@ -1,9 +1,9 @@
-# spell-checker-with-python-3
-spell checker with python 3
+# Translator-English-Arbic-with-spell-checker-by-python-3
+Translator English Arabic with spell checker by python 3
 
 How it works ?
 
-Main.py is the main file , Spell checker checks the entered word or phrase and if it's wrong it suggests alternative words .
+Main.py is the main file , You can enter the English word to translate it to Arabic, Spell checker checks the entered word or phrase and if it's wrong it suggests alternative words.
 
 You can see presentation shows the whole process and how it works here :
 
