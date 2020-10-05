@@ -8,7 +8,3 @@ Main.py is the main file , You can enter the English word to translate it to Ara
 You can see presentation shows the whole process and how it works here :
 
 https://www.slideshare.net/amrelarabi1/python-spell-checker
-
-For more information you can visit :
-
-https://www.motwr.com/2017/03/python3-spell-checker.html
